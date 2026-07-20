@@ -1,4 +1,4 @@
-#Aquarius
+Aquarius
 
 Aquarius is an animated ASCII aquarium and environmental dashboard for the ESP32 Cheap Yellow Display (CYD).
 
