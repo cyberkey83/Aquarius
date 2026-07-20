@@ -22,3 +22,10 @@ Future plans include:
 - OTA firmware updates
 - Configuration menu
 - Home Assistant integration
+
+
+Credits
+
+-Aquarius is built upon the excellent ASCII Aquarium project by POWER-PILL.
+
+-Additional environmental monitoring, weather integration and interface enhancements by the Aquarius contributors.
